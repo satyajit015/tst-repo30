@@ -1,0 +1,6 @@
+<configuration>
+   <appSettings>
+      <add key="username" value="admin" />
+      <add key="pwd" value="test.admin" />
+   </appSettings>
+</configuration>
